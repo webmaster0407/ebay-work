@@ -1,0 +1,19 @@
+{
+    "name": "EbayFeedAPI",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Илья",
+    "contributors": [],
+    "dependencies": {
+        "@hendt/ebay-api": "^5.2.1",
+        "axios": "^0.24.0",
+        "ebay-oauth-nodejs-client": "^1.2.1",
+        "form-data": "^4.0.0"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "SANDBOX":{
+        "clientId":     "LiebtecG-RevisePr-SBX-8c6cc25dc-87a1cf4f",
+        "clientSecret": "SBX-c6cc25dc3ffb-588a-4586-84aa-2e2b",
+        "devid":        "6828514c-d0ee-48cb-bf47-a2c5e3a3e7a1",
+        "redirectUri":  "Liebtec_GmbH-LiebtecG-Revise-lucgl",
+        "baseUrl":      "api.sandbox.ebay.com"
+    },
+    "PRODUCTION":{
+        "clientId":     "LiebtecG-RevisePr-PRD-4c6cc25dc-cb3620b5",
+        "clientSecret": "PRD-c6cc25dc5cd0-e08a-44b3-85f7-844a",
+        "devid":        "6828514c-d0ee-48cb-bf47-a2c5e3a3e7a1",
+        "redirectUri":  "Liebtec_GmbH-LiebtecG-Revise-xvpssqv",
+        "baseUrl":      "api.ebay.com"
+    }    
+}

@@ -1,0 +1,36 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.EventType = void 0;
+var EventType;
+(function (EventType) {
+    EventType["AskSellerQuestion"] = "AskSellerQuestion";
+    EventType["BestOffer"] = "BestOffer";
+    EventType["BestOfferDeclined"] = "BestOfferDeclined";
+    EventType["BestOfferPlaced"] = "BestOfferPlaced";
+    EventType["BidPlaced"] = "BidPlaced";
+    EventType["BidReceived"] = "BidReceived";
+    EventType["CounterOfferReceived"] = "CounterOfferReceived";
+    EventType["CustomCode"] = "CustomCode";
+    EventType["EndOfAuction"] = "EndOfAuction";
+    EventType["FeedbackLeft"] = "FeedbackLeft";
+    EventType["FeedbackReceived"] = "FeedbackReceived";
+    EventType["FeedbackStarChanged"] = "FeedbackStarChanged";
+    EventType["FixedPriceEndOfTransaction"] = "FixedPriceEndOfTransaction";
+    EventType["FixedPriceTransaction"] = "FixedPriceTransaction";
+    EventType["ItemAddedToWatchList"] = "ItemAddedToWatchList";
+    EventType["ItemEnded"] = "ItemEnded";
+    EventType["ItemListed"] = "ItemListed";
+    EventType["ItemLost"] = "ItemLost";
+    EventType["ItemMarkedPaid"] = "ItemMarkedPaid";
+    EventType["ItemMarkedShipped"] = "ItemMarkedShipped";
+    EventType["ItemRemovedFromWatchList"] = "ItemRemovedFromWatchList";
+    EventType["ItemSold"] = "ItemSold";
+    EventType["ItemUnsold"] = "ItemUnsold";
+    EventType["ItemWon"] = "ItemWon";
+    EventType["OutBid"] = "OutBid";
+    EventType["PriceChange"] = "PriceChange";
+    EventType["SecondChanceOffer"] = "SecondChanceOffer";
+    EventType["WatchedItemEndingSoon"] = "WatchedItemEndingSoon";
+})(EventType || (EventType = {}));
+exports.EventType = EventType;
+//# sourceMappingURL=types.js.map

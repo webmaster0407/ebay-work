@@ -1,0 +1,2 @@
+﻿Action(SiteID=Germany|Country=DE|Currency=EUR|Version=585|CC=ISO-8859-1);ItemID;StartPrice;Quantity;BestOfferEnabled;AutoAccept;BestOfferAutoAcceptPrice;AutoDecline;MinimumBestOfferPrice;Ebay Plus;MinimumBestOfferMessage
+Revise;384502629306;100;0;1;1;99;1;99;1;Minimum= 99€
